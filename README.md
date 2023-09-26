@@ -26,4 +26,4 @@ https://github.com/teylorsmith34/SocialNetworkAPI/assets/129015943/bc07e961-9f7b
 -----
 
 
-GitHub Repo:  https://github.com/teylorsmith34/SVG_logoMaker
+GitHub Repo:  https://github.com/teylorsmith34/SocialNetworkAPI
